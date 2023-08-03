@@ -1,1 +1,1 @@
-# curve_solidity
+# Curve rewritten in Solidity + Foundry
