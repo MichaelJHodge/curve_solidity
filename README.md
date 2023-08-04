@@ -56,4 +56,3 @@ Basically, Convex acts like a yield aggregator for Curve Finance’s liquidity p
 
 Yield aggregators are protocols or platforms that allow users to stake their LP (liquidity provider) tokens in vaults.
 These are automated processes designed to produce the highest yields (interest) for LPs.
-
